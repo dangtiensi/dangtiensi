@@ -1,9 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/dangtiensi/dangtiensi/main/name.svg" alt="Đặng Tiến Sĩ" />
 </h1>
-<h1 align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-</h1>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangtiensi&hide=)](https://github.com/dangtiensi/github-readme-stats)
 <!--
 **dangtiensi/dangtiensi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/dangtiensi/dangtiensi/main/name.svg" alt="Đặng Tiến Sĩ" />
 </h1>
 
-### Hi there 👋
+![dangtiensi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dangtiensi&show_icons=true&theme=radical)
 
 <!--
 **dangtiensi/dangtiensi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

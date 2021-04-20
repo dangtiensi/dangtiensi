@@ -2,10 +2,6 @@
   <img src="https://raw.githubusercontent.com/dangtiensi/dangtiensi/main/name.svg" alt="Đặng Tiến Sĩ" />
 </h1>
 
-<h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dangtiensi&show_icons=true&theme=gotham" alt="dangtiensi" />
-</h1>
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -18,6 +14,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<h1 align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dangtiensi&show_icons=true&theme=gotham" alt="dangtiensi" />
+</h1>
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=dangtiensi.dangtiensi" alt="dangtiensi" />

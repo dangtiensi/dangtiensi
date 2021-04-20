@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/dangtiensi/dangtiensi/main/name.svg" alt="Đặng Tiến Sĩ" />
 </h1>
 
-### My GitHub Stats <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+###<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> My GitHub Stats 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dangtiensi&show_icons=true&theme=blueberry" alt="dangtiensi" />
 <!--

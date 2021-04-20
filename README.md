@@ -4,9 +4,13 @@
 
 ### My GitHub Stats 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dangtiensi&show_icons=true&theme=blueberry" alt="dangtiensi" />
+<h1 align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dangtiensi&show_icons=true&theme=blueberry" alt="dangtiensi" />
+</h1>
   
-<p align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=dangtiensi.dangtiensi" alt="dangtiensi" />
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=dangtiensi.dangtiensi" alt="dangtiensi" />
+</p>
 <!--
 **dangtiensi/dangtiensi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dangtiensi&show_icons=true&theme=blueberry" alt="dangtiensi" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dangtiensi&show_icons=true&theme=gotham" alt="dangtiensi" />
 </h1>
   
 <p align="center">

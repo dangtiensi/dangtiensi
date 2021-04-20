@@ -1,3 +1,7 @@
+### Hey there
+
+![](https://visitor-badge.glitch.me/badge?page_id=dangtiensi.dangtiensi)
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/dangtiensi/dangtiensi/main/name.svg" alt="Đặng Tiến Sĩ" />
 </h1>

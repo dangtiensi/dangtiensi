@@ -14,10 +14,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 </p>
 
-<h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dangtiensi&show_icons=true&theme=gotham" alt="dangtiensi" />
-</h1>
-
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=dangtiensi.dangtiensi" alt="dangtiensi" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dangtiensi&show_icons=true&theme=gotham" alt="dangtiensi" />
 </p>

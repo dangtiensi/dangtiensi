@@ -15,3 +15,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dangtiensi&show_icons=true" alt="dangtiensi" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangtiensi&hide=TeX&layout=compact" alt="dangtiensi" />
+</p>

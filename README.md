@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/dangtiensi/dangtiensi/main/name.svg" alt="Đặng Tiến Sĩ" />
 </h1>
+## My GitHub Stats <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dangtiensi&show_icons=true&theme=blueberry" alt="dangtiensi" />
 <!--
 **dangtiensi/dangtiensi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

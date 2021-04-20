@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/dangtiensi/dangtiensi/main/name.svg" alt="Đặng Tiến Sĩ" />
+  <img src="https://raw.githubusercontent.com/dangtiensi/dangtiensi/main/src/name.svg" alt="Đặng Tiến Sĩ" />
 </h1>
 
 <p align="center">
